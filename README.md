@@ -11,4 +11,8 @@
 참고 https://dev.to/alexsergey/css-modules-vs-css-in-js-who-wins-3n25
 #### hot-reload
 - css를 변경하기만 하면 변경 사항이 바로 보이지만, css-in-js를 사용하면 프로젝트가 다시 컴파일 된다.
-- 
+
+
+## 궁금했던점
+### Link 안에 a태그가 없어도 되는 이유!
+https://uchanlee.dev/nextjs/Why-using-a-tag-in-nextjs-Link/
