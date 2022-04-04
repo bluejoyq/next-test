@@ -1,11 +1,11 @@
 import {Box, Typography, Container} from "@mui/material";
 import Link from 'next/link';
 import Head from 'next/head';
-function Index() {
+const Index = ()=> {
   return (
     <>
     <Head>
-      <title>Create Next App</title>
+      <title>응애</title>
       <link rel="icon" href="/public/icons/favicon.ico" />
     </Head>
     <Container maxWidth="sm">
